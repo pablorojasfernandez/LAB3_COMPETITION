@@ -1,5 +1,5 @@
 # Better Code Hub Scoreboard
-
+ 
 
 
 | 2022        | Team |          
