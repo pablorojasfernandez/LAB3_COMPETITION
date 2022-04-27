@@ -30,5 +30,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt32-grupoiwt32_05?branch=main&token=fddd014b2ba8f01164535a98d3b29c5efc1be438)](https://bettercodehub.com/) | IWT32_05 |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt32-grupoiwt32_06?branch=main&token=8d34b0072fb8e88c9103ee493a1c57ab51efaa4b)](https://bettercodehub.com/) | IWT32_06 |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt32-grupoiwt32_07?branch=main&token=f5243a81f3eb9e5ac8ddfc0cdbe759e30f0d49a3)](https://bettercodehub.com/) | IWT32_07 |
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwt31-grupoiwt31_02?branch=main&token=9855b081e2b37bbcdfc8120ba213dcd20f8241ba)](https://bettercodehub.com/) | IWT31_02 |
+
 
 The Better Code Hub scores are powered by the code quality industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model
