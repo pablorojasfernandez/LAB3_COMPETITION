@@ -10,7 +10,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31_03?branch=main&token=96bbb79bd1035fdd43a460e80355c7830132afc9)](https://bettercodehub.com/) | IWM31_03 |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31_04?branch=main&token=27597408d25b4ea3f056905292e01a4299e125bb)](https://bettercodehub.com/) | IWM31_04 |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31_05?branch=main&token=da2f6d8babd15f451b9903565dbf04cc79530126)](https://bettercodehub.com/) | IWM31_05 |
-| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31_06?branch=main&token=54e460f913a0bad38164908b0632e5310c52cfb8)](https://bettercodehub.com/) | IWM31_06 |
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31_06?branch=main&token=a34a07d07cb02a034e690d86e0cc693510dfca05)](https://bettercodehub.com/) | IWM31_06 |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31-07?branch=main&token=bb4b7865c6ef20e001da902ad65483126c54f88f)](https://bettercodehub.com/) | IWM31 07 |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-ems2022-iwm31-08?branch=main&token=7b83d286cbf629fd7c0e0d29b747a382fafb491d)](https://bettercodehub.com/) | IWM31_08 |
 [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/ems2022_lab_3_mantenibilidad_iwm31-grupoiwm31_09?branch=main&token=6c83a33a47e95cef78b87a4b909e7f181f3b0a6a)](https://bettercodehub.com/) | IWM31_09 |
